@@ -1,0 +1,5 @@
+es\albarregas\module\Utiles.class
+es\albarregas\controller\PrimerController.class
+es\albarregas\controller\TiendaController.class
+es\albarregas\controller\ControllerCarrito.class
+es\albarregas\bean\Libro.class
